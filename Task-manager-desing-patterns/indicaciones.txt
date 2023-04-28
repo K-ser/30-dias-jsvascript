@@ -1,0 +1,10 @@
+En este ejercicio, tu objetivo es implementar un sistema de manejo de tareas utilizando patrones de diseño.
+
+Deberás implementar los siguientes patrones de diseño para mejorar la funcionalidad del sistema:
+
+Observer: Notificar a los usuarios cuando una tarea sea completada.
+Proxy: Limitar el acceso a ciertas tareas para usuarios no autorizados.
+Decorator: Agregar una funcionalidad adicional a una tarea ya existente, como una fecha límite y una etiqueta 
+de prioridad.
+Builder: Una alternativa para crear tareas complejas con múltiples propiedades.
+Singleton: Asegurarse de que solo haya una instancia del sistema de manejo de tareas en todo el programa.
